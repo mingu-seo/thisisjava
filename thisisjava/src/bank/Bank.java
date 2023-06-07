@@ -23,6 +23,7 @@ public class Bank {
 		
 		System.out.println(dao.deposit("2222", 500));
 		System.out.println("잘되나?"+"잘되겠죠?");
+		System.out.println("잘되나?"+"잘되네요");
 		
 		
 		dao.close();
